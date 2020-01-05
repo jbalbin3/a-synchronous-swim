@@ -26,6 +26,7 @@ h3 {
   padding-top: 0;
   text-align: center;
   display: inline-block;
+  text-shadow: 2px 2px 1px rgb(36, 36, 36);
 }
 .turn-left {
   transform: rotate(0deg);
